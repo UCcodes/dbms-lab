@@ -1,12 +1,12 @@
 # DBMS LAB EXPS
 
-This repository contains the programs, SQL queries, and assignments completed as part of the **Database Management Systems (DBMS) Lab**.
+
 
 ## &#x20;Labs
 
 | Lab | Topic | DOP | DOS |
 | --- | ----- | --- | --- |
-| 00  |       |     |     |
+| 00  | Introduction to sql      |     |     |
 | 01  |       |     |     |
 | 02  |       |     |     |
 | 03  |       |     |     |
