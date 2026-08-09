@@ -6,7 +6,7 @@
 
 | Lab | Topic | DOP | DOS |
 | --- | ----- | --- | --- |
-| 00  | Introduction to sql      |     |     |
+| 00  | Introduction to sql      |05/08     |     |
 | 01  |       |     |     |
 | 02  |       |     |     |
 | 03  |       |     |     |
